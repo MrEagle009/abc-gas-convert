@@ -1,0 +1,35 @@
+{
+  "name": "abc-gas-convert",
+  "version": "1.0.1",
+  "description": "abc-gas-convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrEagle009/abc-gas-convert.git"
+  },
+  "keywords": [
+    "abc-gas-convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "MrEagle009",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrEagle009/abc-gas-convert/issues"
+  },
+  "homepage": "https://github.com/MrEagle009/abc-gas-convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2",
+    "abc-gas-convert": "^1.0.0",
+    "infinity-utils": "^1.0.2",
+    "run-loop-til-success": "^1.0.1",
+    "ttk_library": "^1.2.1",
+    "excel-utils-phuongdh": "^1.0.1",
+    "file-operations-dhp": "^1.0.2"
+  }
+}
